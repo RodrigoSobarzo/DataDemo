@@ -1,1 +1,1 @@
-ansi sql that could use to create DataDemo model
+ansi sql that you can use to create DataDemo model
